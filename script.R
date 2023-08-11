@@ -9,3 +9,7 @@ library(gitcreds)
 gitcreds::gitcreds_set()
 
 usethis::use_github()
+
+a <- rnorm(2000)
+
+b <- rnorm(3000)
