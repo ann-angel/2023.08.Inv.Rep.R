@@ -13,3 +13,5 @@ usethis::use_github()
 a <- rnorm(2000)
 
 b <- rnorm(3000)
+
+b <- rnorm(4000)
